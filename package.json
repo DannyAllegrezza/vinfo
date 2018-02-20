@@ -1,0 +1,10 @@
+{
+  "name": "vinfo",
+  "version": "1.0.0",
+  "description": "a vin decoder app",
+  "main": "index.js",
+  "repository": "https://github.com/DannyAllegrezza/vinfo.git",
+  "author": "danny allegrezza <danny@dannyallegrezza.com>",
+  "license": "MIT",
+  "private": false
+}
