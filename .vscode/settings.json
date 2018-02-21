@@ -1,3 +1,8 @@
 {
-    "eslint.packageManager": "yarn"
+    "eslint.packageManager": "yarn",
+    "eslint.options": {
+        "configFile": ".eslintrc.js"
+    },
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": false
 }
