@@ -6,9 +6,14 @@
   "repository": "https://github.com/DannyAllegrezza/vinfo.git",
   "author": "danny allegrezza <danny@dannyallegrezza.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon lib/server.js"
+  },
   "private": false,
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.16.2",
+    "nodemon": "^1.15.1",
     "webpack": "^3.11.0"
   },
   "devDependencies": {
